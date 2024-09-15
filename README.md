@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://asset.gecdesigns.com/img/wallpapers/beautiful-fantasy-wallpaper-ultra-hd-wallpaper-4k-sr10012418-1706506236698-cover.webp">
+<!--img align="center" alt="Coding" width="400" src="https://asset.gecdesigns.com/img/wallpapers/beautiful-fantasy-wallpaper-ultra-hd-wallpaper-4k-sr10012418-1706506236698-cover.webp"-->
 
 [![aralyekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=aralyekta)](https://github.com/anuraghazra/github-readme-stats)
 
