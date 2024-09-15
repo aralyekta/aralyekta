@@ -26,13 +26,13 @@ I'm Aral Yekta. I've been working as a backend engineer with 3+ years of startup
 - Redis <img align="center" alt="Redis" width="20" src="https://www.svgrepo.com/show/354272/redis.svg">
 - C++ <img align="center" alt="C++" width="20" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png">
 - Git <img align="center" alt="Git" width="20" src="https://www.svgrepo.com/show/452210/git.svg">
-- InfluxDB <img align="center" alt="InfluxDB" width="20" src="https://www.svgrepo.com/show/306233/influxdb.svg">
-- Bash <img align="center" alt="Bash" width="20" src="https://www.svgrepo.com/show/508897/bash02.svg">
+- InfluxDB <img align="center" alt="InfluxDB" width="20" src="https://static-00.iconduck.com/assets.00/influxdb-icon-2017x2048-38lz5101.png">
+- Bash <img align="center" alt="Bash" width="20" src="https://www.svgrepo.com/show/353478/bash-icon.svg">
 - Linux <img align="center" alt="Linux" width="20" src="https://www.svgrepo.com/show/448236/linux.svg">
 - VSCode <img align="center" alt="VSCode" width="20" src="https://www.svgrepo.com/show/374171/vscode.svg">
 - Vim <img align="center" alt="Linux" width="20" src="https://www.svgrepo.com/show/374168/vim.svg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aralyekta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aralyekta/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
