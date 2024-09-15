@@ -1,10 +1,11 @@
 <!--img align="center" alt="Coding" width="400" src="https://asset.gecdesigns.com/img/wallpapers/beautiful-fantasy-wallpaper-ultra-hd-wallpaper-4k-sr10012418-1706506236698-cover.webp"-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aralyekta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 Welcome to my profile!
 
 I'm Aral Yekta. I've been working as a backend engineer with 3+ years of startup experience (1.5 years part time + 1.5 years full time).
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aralyekta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> -->
