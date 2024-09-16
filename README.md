@@ -30,6 +30,7 @@ I'm Aral Yekta. I've been working as a backend engineer with 3+ years of startup
 - Linux <img align="center" alt="Linux" width="40" src="https://www.svgrepo.com/show/448236/linux.svg">
 - VSCode <img align="center" alt="VSCode" width="40" src="https://www.svgrepo.com/show/374171/vscode.svg">
 - Vim <img align="center" alt="Linux" width="40" src="https://www.svgrepo.com/show/374168/vim.svg">
+- Milvus <img align="center" alt="Linux" width="40" src="https://artwork.lfaidata.foundation/projects/milvus/icon/color/milvus-icon-color.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
