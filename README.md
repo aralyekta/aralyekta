@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-I'm Aral Yekta. I've been working as a backend engineer with 3+ years of startup experience (1.5 years part time + 1.5 years full time).
+I'm Aral Yekta. I've been working as a backend engineer with 3+ years of startup experience (1.5 years part time + 2 years full time).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aralyekta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
