@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-I'm Aral Yekta. I've been working as a software engineer for about 3+ years.
+I'm Aral Yekta. I've been working as a software engineer for about 4+ years.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aralyekta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
